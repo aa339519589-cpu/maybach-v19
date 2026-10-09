@@ -1,0 +1,77 @@
+{
+  "accepted_current_reference": true,
+  "received": "2026-10-07",
+  "instruction": "不用检索了，直接按这个做。",
+  "images": [
+    {
+      "file": "Photo_01.jpg",
+      "source": "/tmp/codex-remote-attachments/01a114f2-e5c7-7b93-95a6-834eb921e96b/A56B6E03-E200-4144-8F77-F6F422BFD3F0/1-Photo-1.jpg",
+      "view": "front-right",
+      "bytes": 110399,
+      "sha256": "48ff165bde3acc042e7e3e279997b056aab03a87d1a7aca9983080aabe641e8b"
+    },
+    {
+      "file": "Photo_02.jpg",
+      "source": "/tmp/codex-remote-attachments/01a114f2-e5c7-7b93-95a6-834eb921e96b/A56B6E03-E200-4144-8F77-F6F422BFD3F0/2-Photo-2.jpg",
+      "view": "rear-right",
+      "bytes": 105364,
+      "sha256": "18fbdf9cc69a98c8a22fede78d23d52a0cc3573518e9a7b3f6a370a031f26381"
+    },
+    {
+      "file": "Photo_03.jpg",
+      "source": "/tmp/codex-remote-attachments/01a114f2-e5c7-7b93-95a6-834eb921e96b/A56B6E03-E200-4144-8F77-F6F422BFD3F0/3-Photo-3.jpg",
+      "view": "rear-left",
+      "bytes": 107005,
+      "sha256": "12000f18dc14f0876b2ee1d4f907afe43d8042672f9f201803a6d8116954b325"
+    },
+    {
+      "file": "Photo_04.jpg",
+      "source": "/tmp/codex-remote-attachments/01a114f2-e5c7-7b93-95a6-834eb921e96b/A56B6E03-E200-4144-8F77-F6F422BFD3F0/4-Photo-4.jpg",
+      "view": "driver-dashboard",
+      "bytes": 140543,
+      "sha256": "2207b4f0e1a0f62582cfc4b86e0458c6119f54b724ae5c23f5d1cda1b687a953"
+    },
+    {
+      "file": "Photo_05.jpg",
+      "source": "/tmp/codex-remote-attachments/01a114f2-e5c7-7b93-95a6-834eb921e96b/A56B6E03-E200-4144-8F77-F6F422BFD3F0/5-Photo-5.jpg",
+      "view": "front-left",
+      "bytes": 104993,
+      "sha256": "569af0b65d78f288aa8c538b5640880dcfd7bc0d14611e3651a21e5ba7b2584a"
+    },
+    {
+      "file": "Photo_06.jpg",
+      "source": "/tmp/codex-remote-attachments/01a114f2-e5c7-7b93-95a6-834eb921e96b/A56B6E03-E200-4144-8F77-F6F422BFD3F0/6-Photo-6.jpg",
+      "view": "passenger-dashboard",
+      "bytes": 125634,
+      "sha256": "5efd25a7f1e29eec255d2e261ee4a51ab53ffd96457bf89b446a8da755fb9069"
+    },
+    {
+      "file": "Photo_07.jpg",
+      "source": "/tmp/codex-remote-attachments/01a114f2-e5c7-7b93-95a6-834eb921e96b/A56B6E03-E200-4144-8F77-F6F422BFD3F0/7-Photo-7.jpg",
+      "view": "front-seats",
+      "bytes": 127184,
+      "sha256": "45a973ef146464afc7af3c20dfdb5192159d4792cc3792a16fa72a95785629c9"
+    },
+    {
+      "file": "Photo_08.jpg",
+      "source": "/tmp/codex-remote-attachments/01a114f2-e5c7-7b93-95a6-834eb921e96b/A56B6E03-E200-4144-8F77-F6F422BFD3F0/8-Photo-8.jpg",
+      "view": "rear-recliner",
+      "bytes": 135221,
+      "sha256": "1766098c1dc1f4d297379bf40df74abfd277ff6d7aaca883c2244847e04a186a"
+    },
+    {
+      "file": "Photo_09.jpg",
+      "source": "/tmp/codex-remote-attachments/01a114f2-e5c7-7b93-95a6-834eb921e96b/A56B6E03-E200-4144-8F77-F6F422BFD3F0/9-Photo-9.jpg",
+      "view": "rear-seats",
+      "bytes": 126994,
+      "sha256": "78bcd685d387cf46b47bd8249742fb9d7cff4d50cf74507463611ee3daac2ba8"
+    },
+    {
+      "file": "Photo_10.jpg",
+      "source": "/tmp/codex-remote-attachments/01a114f2-e5c7-7b93-95a6-834eb921e96b/A56B6E03-E200-4144-8F77-F6F422BFD3F0/10-Photo-10.jpg",
+      "view": "rear-cabin-forward",
+      "bytes": 111979,
+      "sha256": "11d671e5776c83026beb6b7ffeacad5e4e5ff99c0a38eac2c646c8b805652679"
+    }
+  ]
+}

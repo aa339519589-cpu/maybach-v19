@@ -1,0 +1,82 @@
+{
+  "method": "separate analytic outer/inner corner normals and rim-only area-weighted normals",
+  "canonical_field_error_m": 0.0,
+  "geometry_changed": false,
+  "objects": [
+    {
+      "object": "Roof and pillar outer framework",
+      "applied_modifiers": [
+        "Physical sheet thickness"
+      ],
+      "vertices": 8478,
+      "outer_faces": 6226,
+      "inner_faces": 6226,
+      "rim_faces": 2258,
+      "evaluated_geometry_max_change_m": 0.0,
+      "outer_normal_before_max_deg": 101.1208394870805,
+      "outer_normal_before_p95_deg": 44.90135536171516,
+      "outer_normal_after_max_deg": 0.049405520725651145,
+      "animation_preserved": true
+    },
+    {
+      "object": "Left front door upper window frame",
+      "applied_modifiers": [
+        "Physical sheet thickness"
+      ],
+      "vertices": 852,
+      "outer_faces": 462,
+      "inner_faces": 462,
+      "rim_faces": 390,
+      "evaluated_geometry_max_change_m": 0.0,
+      "outer_normal_before_max_deg": 54.83970759348509,
+      "outer_normal_before_p95_deg": 44.922931908881104,
+      "outer_normal_after_max_deg": 0.013167223825902175,
+      "animation_preserved": true
+    },
+    {
+      "object": "Left rear door upper window frame",
+      "applied_modifiers": [
+        "Physical sheet thickness"
+      ],
+      "vertices": 936,
+      "outer_faces": 521,
+      "inner_faces": 521,
+      "rim_faces": 415,
+      "evaluated_geometry_max_change_m": 0.0,
+      "outer_normal_before_max_deg": 52.29600512128139,
+      "outer_normal_before_p95_deg": 45.044638326535704,
+      "outer_normal_after_max_deg": 0.028250579140805608,
+      "animation_preserved": true
+    },
+    {
+      "object": "Right front door upper window frame",
+      "applied_modifiers": [
+        "Physical sheet thickness"
+      ],
+      "vertices": 852,
+      "outer_faces": 462,
+      "inner_faces": 462,
+      "rim_faces": 390,
+      "evaluated_geometry_max_change_m": 0.0,
+      "outer_normal_before_max_deg": 54.849156873238854,
+      "outer_normal_before_p95_deg": 44.90773096603981,
+      "outer_normal_after_max_deg": 0.02098218797347324,
+      "animation_preserved": true
+    },
+    {
+      "object": "Right rear door upper window frame",
+      "applied_modifiers": [
+        "Physical sheet thickness"
+      ],
+      "vertices": 936,
+      "outer_faces": 521,
+      "inner_faces": 521,
+      "rim_faces": 415,
+      "evaluated_geometry_max_change_m": 0.0,
+      "outer_normal_before_max_deg": 52.05823874191316,
+      "outer_normal_before_p95_deg": 45.06012859660325,
+      "outer_normal_after_max_deg": 0.02534932767350196,
+      "animation_preserved": true
+    }
+  ]
+}

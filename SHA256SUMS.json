@@ -1,0 +1,182 @@
+[
+  {
+    "path": "Maybach_Ten_Photo_v19.blend",
+    "bytes": 91633000,
+    "sha256": "f4847bd3f381c1981fa0ff11a1faa35960617bc0bd216f779560d4bcce41bb86"
+  },
+  {
+    "path": "Maybach_Ten_Photo_v19.glb",
+    "bytes": 66062992,
+    "sha256": "4c6c180b453e1148202dd6225f9222f920a9100400368259d0d6181122deab74"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2036,
+    "sha256": "a1724f71af102da7dec88ab520c20f20874947f73417c03c8a6825675e98f52b"
+  },
+  {
+    "path": "continuation/fix_rear_normals.py",
+    "bytes": 6626,
+    "sha256": "4f691e269284229beecb70416f0f6d8e348c380c7f80e452a8d2d59c8c7ef658"
+  },
+  {
+    "path": "continuation/refine_cabin_v19.py",
+    "bytes": 7639,
+    "sha256": "9d1345da6d4f44965507e19a436ce08eecc5d0814c7f48c78f4ff3fc50aec542"
+  },
+  {
+    "path": "continuation/refine_photo_details.py",
+    "bytes": 12501,
+    "sha256": "aa7b6b2b5a61716353c6406afa8ba92befb988fd7fcd771055dbbd5556263ff4"
+  },
+  {
+    "path": "continuation/split_door_frames.py",
+    "bytes": 3714,
+    "sha256": "c662633441585886dea3c28e82fbd2ae46f9670c8c457129ba70f7cddf3bf5cf"
+  },
+  {
+    "path": "references/Photo_01.jpg",
+    "bytes": 110399,
+    "sha256": "48ff165bde3acc042e7e3e279997b056aab03a87d1a7aca9983080aabe641e8b"
+  },
+  {
+    "path": "references/Photo_02.jpg",
+    "bytes": 105364,
+    "sha256": "18fbdf9cc69a98c8a22fede78d23d52a0cc3573518e9a7b3f6a370a031f26381"
+  },
+  {
+    "path": "references/Photo_03.jpg",
+    "bytes": 107005,
+    "sha256": "12000f18dc14f0876b2ee1d4f907afe43d8042672f9f201803a6d8116954b325"
+  },
+  {
+    "path": "references/Photo_04.jpg",
+    "bytes": 140543,
+    "sha256": "2207b4f0e1a0f62582cfc4b86e0458c6119f54b724ae5c23f5d1cda1b687a953"
+  },
+  {
+    "path": "references/Photo_05.jpg",
+    "bytes": 104993,
+    "sha256": "569af0b65d78f288aa8c538b5640880dcfd7bc0d14611e3651a21e5ba7b2584a"
+  },
+  {
+    "path": "references/Photo_06.jpg",
+    "bytes": 125634,
+    "sha256": "5efd25a7f1e29eec255d2e261ee4a51ab53ffd96457bf89b446a8da755fb9069"
+  },
+  {
+    "path": "references/Photo_07.jpg",
+    "bytes": 127184,
+    "sha256": "45a973ef146464afc7af3c20dfdb5192159d4792cc3792a16fa72a95785629c9"
+  },
+  {
+    "path": "references/Photo_08.jpg",
+    "bytes": 135221,
+    "sha256": "1766098c1dc1f4d297379bf40df74abfd277ff6d7aaca883c2244847e04a186a"
+  },
+  {
+    "path": "references/Photo_09.jpg",
+    "bytes": 126994,
+    "sha256": "78bcd685d387cf46b47bd8249742fb9d7cff4d50cf74507463611ee3daac2ba8"
+  },
+  {
+    "path": "references/Photo_10.jpg",
+    "bytes": 111979,
+    "sha256": "11d671e5776c83026beb6b7ffeacad5e4e5ff99c0a38eac2c646c8b805652679"
+  },
+  {
+    "path": "references/REFERENCE_AUTHORITY.md",
+    "bytes": 702,
+    "sha256": "3ad6f4f6605f35db6441e6614cd90efc0f320aca36adc0f86ac3d88d213b0ca8"
+  },
+  {
+    "path": "references/manifest.json",
+    "bytes": 3315,
+    "sha256": "4f726d1eb38fe01215b8ffc22861f4941a4008b99f3f4cf4bf36427c5a5ebb65"
+  },
+  {
+    "path": "renders/dashboard.png",
+    "bytes": 1905447,
+    "sha256": "01175d97ee577a90628add15d79804232b4bf3c3e6d7cc3f19bf7e7b623f4497"
+  },
+  {
+    "path": "renders/front_right.png",
+    "bytes": 1516340,
+    "sha256": "065aa15f1948271c2eeb9034dfde70953e17075a8ea80cf281776d6f523b9c5e"
+  },
+  {
+    "path": "renders/front_seats.png",
+    "bytes": 1935849,
+    "sha256": "857917343c2c7ef865bc5b3a1148a20e41aa7371c328bf995ccaea39792c4bdc"
+  },
+  {
+    "path": "renders/passenger_dashboard.png",
+    "bytes": 1937190,
+    "sha256": "3d2f793918f67550f42e07401970f68da3bc62b187c9433f26cccef116b94c68"
+  },
+  {
+    "path": "renders/photo03.png",
+    "bytes": 1507941,
+    "sha256": "484b9145796d6611bf5ca96764b9bad84211ca94e6d633ac931bac580319ba25"
+  },
+  {
+    "path": "renders/photo05.png",
+    "bytes": 1533143,
+    "sha256": "da56b3d4ec1c4cb731586aff42ade6282c070bb81c0e4e61b3a302ad1a332555"
+  },
+  {
+    "path": "renders/rear_cabin.png",
+    "bytes": 1707659,
+    "sha256": "944269529d762938d656e955abccb1c135fb918b0d83765052ff332ebd6e7c77"
+  },
+  {
+    "path": "renders/rear_legrest.png",
+    "bytes": 1877450,
+    "sha256": "d6dd3bc7366403887aa4163ac907554d4d84faa1e8957f9ab0378f5449c52c97"
+  },
+  {
+    "path": "renders/rear_right.png",
+    "bytes": 1500971,
+    "sha256": "c5682b0fcc4e6821c0bf7c07b33d82d54c7669367d73c7501c69f0d976390156"
+  },
+  {
+    "path": "renders/rear_seats.png",
+    "bytes": 1937255,
+    "sha256": "05511527ed7f75a233ee509a6602355b1e5bef48ecdb09ebf69c90489296daab"
+  },
+  {
+    "path": "reports/checkpoint19.json",
+    "bytes": 5459,
+    "sha256": "f34983283ce8b9b4ba77f38ce0cf219ad039f09dada25d2a0f51827d4b094d74"
+  },
+  {
+    "path": "reports/door-frame-normals.json",
+    "bytes": 2626,
+    "sha256": "72ad6956518d8c0d9c8ed484f7fc7fdea97584f6def45854000529a6102ee3bf"
+  },
+  {
+    "path": "reports/material-report-v19.json",
+    "bytes": 55882,
+    "sha256": "1426c3e233d8b53d0d4a0403208184c5c1b9511866f54f22da246e91b33565af"
+  },
+  {
+    "path": "reports/photo-detail-report.json",
+    "bytes": 1731,
+    "sha256": "44cb43d7a038cbc48e59d911bb4b5a711fead3fe8193ce0a90a5748ba319d2e3"
+  },
+  {
+    "path": "reports/photo03_camera.json",
+    "bytes": 2711,
+    "sha256": "6949e171bc331ea8be9d65242e8a07b4e5db038e80579423629c2247d91a834c"
+  },
+  {
+    "path": "reports/photo05_camera.json",
+    "bytes": 2774,
+    "sha256": "307340872ba8f612277368931a3153ff9d8607c6ac163a8cce6b795b8a8e8d39"
+  },
+  {
+    "path": "reports/rear-normal-report.json",
+    "bytes": 1062,
+    "sha256": "e3586eff174ab2ee551d160c957281eca2ee45abe24d851999430a1696dc2b15"
+  }
+]

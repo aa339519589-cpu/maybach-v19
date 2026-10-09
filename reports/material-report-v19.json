@@ -1,0 +1,1864 @@
+{
+  "status": "complete",
+  "source": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/Maybach_Ten_Photo_v19.blend",
+  "source_sha256": "f4847bd3f381c1981fa0ff11a1faa35960617bc0bd216f779560d4bcce41bb86",
+  "blender_version": "5.2.1 LTS",
+  "stage": "all",
+  "bakes": [
+    {
+      "image": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/material-cache-v19/INT_Front_left_perforated_diamond_leather_backrest_cover_normal_d5c62d4d762dbb9617d9.png",
+      "png_sha256": "5418f7dd133619378f1fd7085b811e9710d220f828a6e8eb04fed2b987aec7b2",
+      "kind": "normal",
+      "resolution": 2048,
+      "uv_hash": "a07d471792a98637077a63ac6dd38a28b0c6005188ce197a847fafd850535b73",
+      "source_material": "INT silk beige semi-aniline leather",
+      "component": "INT Front left perforated diamond leather backrest cover",
+      "seconds": 25.148160540964454,
+      "cycles_samples": 8,
+      "statistics": {
+        "covered_sample_count": 65536,
+        "rgb_minmax": [
+          [
+            0.4862745404243469,
+            0.5137255191802979
+          ],
+          [
+            0.4862745404243469,
+            0.5137255191802979
+          ],
+          [
+            1.0,
+            1.0
+          ]
+        ],
+        "normal_variation": 0.027450978755950928
+      },
+      "cache_hit": false,
+      "export_material": "BAKE_29a95eff77de0aff",
+      "connected_source_graph": [
+        [
+          "Bump.003",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Noise Texture.003",
+          "Factor",
+          "Bump.003",
+          "Height"
+        ]
+      ]
+    },
+    {
+      "image": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/material-cache-v19/INT_Front_left_perforated_diamond_seat_cushion_cover_normal_a95269b3cebfb84c9642.png",
+      "png_sha256": "c81832cdaed66f65097c96be0a299398d77d317e58db319809cdcf113ccd00a7",
+      "kind": "normal",
+      "resolution": 2048,
+      "uv_hash": "7e30cda68f3fd8b9eb09f27f890dbc62e592edc6013f1d76f062630a35b3a1ce",
+      "source_material": "INT silk beige semi-aniline leather",
+      "component": "INT Front left perforated diamond seat cushion cover",
+      "seconds": 28.754058459075168,
+      "cycles_samples": 8,
+      "statistics": {
+        "covered_sample_count": 65536,
+        "rgb_minmax": [
+          [
+            0.4901961088180542,
+            0.5058823823928833
+          ],
+          [
+            0.4901961088180542,
+            0.5098039507865906
+          ],
+          [
+            1.0,
+            1.0
+          ]
+        ],
+        "normal_variation": 0.019607841968536377
+      },
+      "cache_hit": false,
+      "export_material": "BAKE_4bab8c9b3ee8d973",
+      "connected_source_graph": [
+        [
+          "Bump.003",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Noise Texture.003",
+          "Factor",
+          "Bump.003",
+          "Height"
+        ]
+      ]
+    },
+    {
+      "image": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/material-cache-v19/INT_Front_right_perforated_diamond_leather_backrest_cover_normal_f0072c53eda83f0bbee0.png",
+      "png_sha256": "044a2c8076df255fef1f13d6e35fa2fb6d253dea6d80b40a32e5e9c6549c7e09",
+      "kind": "normal",
+      "resolution": 2048,
+      "uv_hash": "d6b5c6f184d8702f16874ca7b2922a0c419fb48f687213712c54218c765eb2cb",
+      "source_material": "INT silk beige semi-aniline leather",
+      "component": "INT Front right perforated diamond leather backrest cover",
+      "seconds": 26.817413792014122,
+      "cycles_samples": 8,
+      "statistics": {
+        "covered_sample_count": 65536,
+        "rgb_minmax": [
+          [
+            0.4862745404243469,
+            0.5137255191802979
+          ],
+          [
+            0.4862745404243469,
+            0.5137255191802979
+          ],
+          [
+            1.0,
+            1.0
+          ]
+        ],
+        "normal_variation": 0.027450978755950928
+      },
+      "cache_hit": false,
+      "export_material": "BAKE_3a97681e979902a3",
+      "connected_source_graph": [
+        [
+          "Bump.003",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Noise Texture.003",
+          "Factor",
+          "Bump.003",
+          "Height"
+        ]
+      ]
+    },
+    {
+      "image": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/material-cache-v19/INT_Front_right_perforated_diamond_seat_cushion_cover_normal_87345a4712c7cf6aa9e4.png",
+      "png_sha256": "9a2861f64fb1ff16f793aeed58c0ad24c31bbda00d2403ce7525e922f71fb5e0",
+      "kind": "normal",
+      "resolution": 2048,
+      "uv_hash": "342679926c0547ad5d700022fb226febd9f1cc984228e26e1193bd5639c30ccb",
+      "source_material": "INT silk beige semi-aniline leather",
+      "component": "INT Front right perforated diamond seat cushion cover",
+      "seconds": 29.509848583023995,
+      "cycles_samples": 8,
+      "statistics": {
+        "covered_sample_count": 65536,
+        "rgb_minmax": [
+          [
+            0.4901961088180542,
+            0.5058823823928833
+          ],
+          [
+            0.4901961088180542,
+            0.5098039507865906
+          ],
+          [
+            1.0,
+            1.0
+          ]
+        ],
+        "normal_variation": 0.019607841968536377
+      },
+      "cache_hit": false,
+      "export_material": "BAKE_83a7e6d291fa635d",
+      "connected_source_graph": [
+        [
+          "Bump.003",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Noise Texture.003",
+          "Factor",
+          "Bump.003",
+          "Height"
+        ]
+      ]
+    },
+    {
+      "image": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/material-cache-v19/INT_Rear_left_perforated_diamond_leather_backrest_cover_normal_b96481f8d9ccf11e6b49.png",
+      "png_sha256": "7aec6216580b9c874d918765cd464eed5c83163592347a59884b0bd0398642fc",
+      "kind": "normal",
+      "resolution": 2048,
+      "uv_hash": "a07d471792a98637077a63ac6dd38a28b0c6005188ce197a847fafd850535b73",
+      "source_material": "INT silk beige semi-aniline leather",
+      "component": "INT Rear left perforated diamond leather backrest cover",
+      "seconds": 26.78598429192789,
+      "cycles_samples": 8,
+      "statistics": {
+        "covered_sample_count": 65536,
+        "rgb_minmax": [
+          [
+            0.4862745404243469,
+            0.5137255191802979
+          ],
+          [
+            0.4862745404243469,
+            0.5137255191802979
+          ],
+          [
+            1.0,
+            1.0
+          ]
+        ],
+        "normal_variation": 0.027450978755950928
+      },
+      "cache_hit": false,
+      "export_material": "BAKE_879ab3794dc8ee92",
+      "connected_source_graph": [
+        [
+          "Bump.003",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Noise Texture.003",
+          "Factor",
+          "Bump.003",
+          "Height"
+        ]
+      ]
+    },
+    {
+      "image": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/material-cache-v19/INT_Rear_left_perforated_diamond_seat_cushion_cover_normal_46c035d1206831fbf58e.png",
+      "png_sha256": "435757368296d45c4548a02338db652ff926cddb446b3e49e003e0835a1e72ff",
+      "kind": "normal",
+      "resolution": 2048,
+      "uv_hash": "c3b62df76954059b19dcce31be0b04b23e8e43a898bf78f41d64583f0d75ea4c",
+      "source_material": "INT silk beige semi-aniline leather",
+      "component": "INT Rear left perforated diamond seat cushion cover",
+      "seconds": 30.311878499924205,
+      "cycles_samples": 8,
+      "statistics": {
+        "covered_sample_count": 65536,
+        "rgb_minmax": [
+          [
+            0.4901961088180542,
+            0.5058823823928833
+          ],
+          [
+            0.4901961088180542,
+            0.5098039507865906
+          ],
+          [
+            1.0,
+            1.0
+          ]
+        ],
+        "normal_variation": 0.019607841968536377
+      },
+      "cache_hit": false,
+      "export_material": "BAKE_1910b0f918dd7caf",
+      "connected_source_graph": [
+        [
+          "Bump.003",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Noise Texture.003",
+          "Factor",
+          "Bump.003",
+          "Height"
+        ]
+      ]
+    },
+    {
+      "image": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/material-cache-v19/INT_Rear_right_perforated_diamond_leather_backrest_cover_normal_6ec1360c53ddc09b2935.png",
+      "png_sha256": "d0a8850684a1548cd0e6660806605ff13640ac3d47e1654d39ec6f592cf64282",
+      "kind": "normal",
+      "resolution": 2048,
+      "uv_hash": "d6b5c6f184d8702f16874ca7b2922a0c419fb48f687213712c54218c765eb2cb",
+      "source_material": "INT silk beige semi-aniline leather",
+      "component": "INT Rear right perforated diamond leather backrest cover",
+      "seconds": 32.68027725000866,
+      "cycles_samples": 8,
+      "statistics": {
+        "covered_sample_count": 65536,
+        "rgb_minmax": [
+          [
+            0.4862745404243469,
+            0.5137255191802979
+          ],
+          [
+            0.4862745404243469,
+            0.5137255191802979
+          ],
+          [
+            1.0,
+            1.0
+          ]
+        ],
+        "normal_variation": 0.027450978755950928
+      },
+      "cache_hit": false,
+      "export_material": "BAKE_fc6120575f3ec5de",
+      "connected_source_graph": [
+        [
+          "Bump.003",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Noise Texture.003",
+          "Factor",
+          "Bump.003",
+          "Height"
+        ]
+      ]
+    },
+    {
+      "image": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/material-cache-v19/INT_Rear_right_perforated_diamond_seat_cushion_cover_normal_70026a9b58a1b97babcc.png",
+      "png_sha256": "2f189e84e5f4819c65603eee3cfbd211594ceb1123fa650e9aac9da716544bbc",
+      "kind": "normal",
+      "resolution": 2048,
+      "uv_hash": "6dec0853db331c9b1dacfde97fe78ccd6c897647354e255d192a177254238add",
+      "source_material": "INT silk beige semi-aniline leather",
+      "component": "INT Rear right perforated diamond seat cushion cover",
+      "seconds": 28.176872999989428,
+      "cycles_samples": 8,
+      "statistics": {
+        "covered_sample_count": 65536,
+        "rgb_minmax": [
+          [
+            0.4901961088180542,
+            0.5058823823928833
+          ],
+          [
+            0.4901961088180542,
+            0.5098039507865906
+          ],
+          [
+            1.0,
+            1.0
+          ]
+        ],
+        "normal_variation": 0.019607841968536377
+      },
+      "cache_hit": false,
+      "export_material": "BAKE_99edd745c05e5e5e",
+      "connected_source_graph": [
+        [
+          "Bump.003",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Noise Texture.003",
+          "Factor",
+          "Bump.003",
+          "Height"
+        ]
+      ]
+    },
+    {
+      "image": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/material-cache-v19/INT_Front_left_molded_full-height_rear_seat_shell_normal_f16a37df482d75308940.png",
+      "png_sha256": "f07cf56b0481538eaa37d625976c1dcbd9b05afe5dc0c60dfb88184ce95ad0fa",
+      "kind": "normal",
+      "resolution": 2048,
+      "uv_hash": "85f104678e40067527d82a255b470265e0d1912989883600f848a1e8e9e4846f",
+      "source_material": "INT silk beige semi-aniline leather",
+      "component": "INT Front left molded full-height rear seat shell",
+      "seconds": 15.280613792012446,
+      "cycles_samples": 8,
+      "statistics": {
+        "covered_sample_count": 65536,
+        "rgb_minmax": [
+          [
+            0.4862745404243469,
+            0.5137255191802979
+          ],
+          [
+            0.4901961088180542,
+            0.5098039507865906
+          ],
+          [
+            1.0,
+            1.0
+          ]
+        ],
+        "normal_variation": 0.027450978755950928
+      },
+      "cache_hit": false,
+      "export_material": "BAKE_a2ac5d7e863cea9c",
+      "connected_source_graph": [
+        [
+          "Bump.003",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Noise Texture.003",
+          "Factor",
+          "Bump.003",
+          "Height"
+        ]
+      ]
+    },
+    {
+      "image": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/material-cache-v19/INT_Front_right_molded_full-height_rear_seat_shell_normal_9ee3f993720785dfe982.png",
+      "png_sha256": "848536d0ebf60c7fc74544d67552ce052a6b5a95bca0436d0908077727447526",
+      "kind": "normal",
+      "resolution": 2048,
+      "uv_hash": "81b559196fd7bdc845f6c30416644b08ccf544e2eb2ee3edbb99461886e55b73",
+      "source_material": "INT silk beige semi-aniline leather",
+      "component": "INT Front right molded full-height rear seat shell",
+      "seconds": 14.746511499979533,
+      "cycles_samples": 8,
+      "statistics": {
+        "covered_sample_count": 65536,
+        "rgb_minmax": [
+          [
+            0.4901961088180542,
+            0.5098039507865906
+          ],
+          [
+            0.4901961088180542,
+            0.5098039507865906
+          ],
+          [
+            1.0,
+            1.0
+          ]
+        ],
+        "normal_variation": 0.019607841968536377
+      },
+      "cache_hit": false,
+      "export_material": "BAKE_94c92d95f2775ea8",
+      "connected_source_graph": [
+        [
+          "Bump.003",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Noise Texture.003",
+          "Factor",
+          "Bump.003",
+          "Height"
+        ]
+      ]
+    },
+    {
+      "image": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/material-cache-v19/INT_Left_front_fine_glossy_timber_insert_basecolor_93f6e6919fbc3795b0f7.png",
+      "png_sha256": "9188ffd15ac6864a1984dcbb899215e902903b87753705dbf21f6a496eade326",
+      "kind": "basecolor",
+      "resolution": 2048,
+      "uv_hash": "cc0da0833c059107af4b9b6f04a16492eeb0deecc6a4d5abf5f8dad6500fe049",
+      "source_material": "INT walnut piano lacquer",
+      "component": "INT Left front fine glossy timber insert",
+      "seconds": 3.4620642500231043,
+      "cycles_samples": 8,
+      "statistics": {
+        "covered_sample_count": 65528,
+        "rgb_minmax": [
+          [
+            0.0,
+            0.12941177189350128
+          ],
+          [
+            0.0,
+            0.08627451211214066
+          ],
+          [
+            0.0,
+            0.0470588281750679
+          ]
+        ],
+        "normal_variation": null
+      },
+      "cache_hit": false,
+      "export_material": "BAKE_1bb316d7a2611da2",
+      "connected_source_graph": [
+        [
+          "Color Ramp.003",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ],
+        [
+          "Noise Texture.003",
+          "Factor",
+          "Color Ramp.003",
+          "Factor"
+        ],
+        [
+          "Vector Math.003",
+          "Vector",
+          "Noise Texture.003",
+          "Vector"
+        ],
+        [
+          "Texture Coordinate.003",
+          "Generated",
+          "Vector Math.003",
+          "Vector"
+        ]
+      ]
+    },
+    {
+      "image": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/material-cache-v19/INT_Left_rear_fine_glossy_timber_insert_basecolor_fea5b4fb9e62530638f5.png",
+      "png_sha256": "0de2c8b057522cee61548fcb2c0c31e265abe5cfaa34931c595aa981af08030b",
+      "kind": "basecolor",
+      "resolution": 2048,
+      "uv_hash": "3e537a7b36e1c0471b6729fa811a36378e5dfc44dc607824602862fccf24a39e",
+      "source_material": "INT walnut piano lacquer",
+      "component": "INT Left rear fine glossy timber insert",
+      "seconds": 3.4477181669790298,
+      "cycles_samples": 8,
+      "statistics": {
+        "covered_sample_count": 65528,
+        "rgb_minmax": [
+          [
+            0.0,
+            0.12941177189350128
+          ],
+          [
+            0.0,
+            0.08627451211214066
+          ],
+          [
+            0.0,
+            0.0470588281750679
+          ]
+        ],
+        "normal_variation": null
+      },
+      "cache_hit": false,
+      "export_material": "BAKE_da6b6c9db6bff181",
+      "connected_source_graph": [
+        [
+          "Color Ramp.003",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ],
+        [
+          "Noise Texture.003",
+          "Factor",
+          "Color Ramp.003",
+          "Factor"
+        ],
+        [
+          "Vector Math.003",
+          "Vector",
+          "Noise Texture.003",
+          "Vector"
+        ],
+        [
+          "Texture Coordinate.003",
+          "Generated",
+          "Vector Math.003",
+          "Vector"
+        ]
+      ]
+    },
+    {
+      "image": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/material-cache-v19/INT_Right_front_fine_glossy_timber_insert_basecolor_fe6779bdfb09053b992d.png",
+      "png_sha256": "defb5b8ef0e3b00186532ee47180a75d1eb0e805224dc14a30d07a103353c885",
+      "kind": "basecolor",
+      "resolution": 2048,
+      "uv_hash": "cf4d08788d2940124223265a94391ba0ec110538350f47b69ee4b2847c085dee",
+      "source_material": "INT walnut piano lacquer",
+      "component": "INT Right front fine glossy timber insert",
+      "seconds": 3.485832624952309,
+      "cycles_samples": 8,
+      "statistics": {
+        "covered_sample_count": 65535,
+        "rgb_minmax": [
+          [
+            0.0,
+            0.12941177189350128
+          ],
+          [
+            0.0,
+            0.08627451211214066
+          ],
+          [
+            0.0,
+            0.0470588281750679
+          ]
+        ],
+        "normal_variation": null
+      },
+      "cache_hit": false,
+      "export_material": "BAKE_f6e1bff3c59f1da9",
+      "connected_source_graph": [
+        [
+          "Color Ramp.003",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ],
+        [
+          "Noise Texture.003",
+          "Factor",
+          "Color Ramp.003",
+          "Factor"
+        ],
+        [
+          "Vector Math.003",
+          "Vector",
+          "Noise Texture.003",
+          "Vector"
+        ],
+        [
+          "Texture Coordinate.003",
+          "Generated",
+          "Vector Math.003",
+          "Vector"
+        ]
+      ]
+    },
+    {
+      "image": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/material-cache-v19/INT_Right_rear_fine_glossy_timber_insert_basecolor_97fb72f2d5efe9907dd0.png",
+      "png_sha256": "b7639f5f67ee2cd637dba8d3bd15ad27b3f52eb3c8acac15bad1d03cf0621d88",
+      "kind": "basecolor",
+      "resolution": 2048,
+      "uv_hash": "dbf28c9cebbb9053f2383076fdb0df62e809b753d0b01550825897d118169825",
+      "source_material": "INT walnut piano lacquer",
+      "component": "INT Right rear fine glossy timber insert",
+      "seconds": 3.4724940409651026,
+      "cycles_samples": 8,
+      "statistics": {
+        "covered_sample_count": 65535,
+        "rgb_minmax": [
+          [
+            0.0,
+            0.12941177189350128
+          ],
+          [
+            0.0,
+            0.08627451211214066
+          ],
+          [
+            0.0,
+            0.0470588281750679
+          ]
+        ],
+        "normal_variation": null
+      },
+      "cache_hit": false,
+      "export_material": "BAKE_27da534422c350cf",
+      "connected_source_graph": [
+        [
+          "Color Ramp.003",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ],
+        [
+          "Noise Texture.003",
+          "Factor",
+          "Color Ramp.003",
+          "Factor"
+        ],
+        [
+          "Vector Math.003",
+          "Vector",
+          "Noise Texture.003",
+          "Vector"
+        ],
+        [
+          "Texture Coordinate.003",
+          "Generated",
+          "Vector Math.003",
+          "Vector"
+        ]
+      ]
+    },
+    {
+      "image": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/material-cache-v19/Dashboard_leather_upper_shell_normal_a9c2bbf83bb3aa8572f3.png",
+      "png_sha256": "cd908e2c760c447abbf6a156749b21a0278c79507f6c9fef828ebef6cc56c2a0",
+      "kind": "normal",
+      "resolution": 2048,
+      "uv_hash": "f99249ce73d41e465b7b7eeb3b57356fdc532fa202d7994bf7afb3cbce47b799",
+      "source_material": "DP titanium leather dashboard roll",
+      "component": "Dashboard leather upper shell",
+      "seconds": 11.584034124971367,
+      "cycles_samples": 8,
+      "statistics": {
+        "covered_sample_count": 65536,
+        "rgb_minmax": [
+          [
+            0.3137255012989044,
+            0.6705882549285889
+          ],
+          [
+            0.2392157018184662,
+            0.7882353663444519
+          ],
+          [
+            0.0,
+            1.0
+          ]
+        ],
+        "normal_variation": 0.5490196645259857
+      },
+      "cache_hit": false,
+      "export_material": "BAKE_784f1cad3835238f",
+      "connected_source_graph": [
+        [
+          "Bump.003",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Noise Texture.003",
+          "Factor",
+          "Bump.003",
+          "Height"
+        ]
+      ]
+    },
+    {
+      "image": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/material-cache-v19/DP_Passenger_stitched_upper_fascia_normal_db7985eabc6066da7721.png",
+      "png_sha256": "3e5d29ccae91337161048d4f78fb0765b6da834c865c0fc5810f8e95ade79dd3",
+      "kind": "normal",
+      "resolution": 2048,
+      "uv_hash": "408c99ea4902dae3d7335a6c9964b2e8b83ce81fc2fdc1edfd616486400d4bd8",
+      "source_material": "INT silk beige semi-aniline leather.001",
+      "component": "DP Passenger stitched upper fascia",
+      "seconds": 13.543525166925974,
+      "cycles_samples": 8,
+      "statistics": {
+        "covered_sample_count": 65536,
+        "rgb_minmax": [
+          [
+            0.4901961088180542,
+            0.5137255191802979
+          ],
+          [
+            0.4901961088180542,
+            0.5098039507865906
+          ],
+          [
+            1.0,
+            1.0
+          ]
+        ],
+        "normal_variation": 0.023529410362243652
+      },
+      "cache_hit": false,
+      "export_material": "BAKE_29ebd9ed937b0293",
+      "connected_source_graph": [
+        [
+          "Bump.003",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Noise Texture.003",
+          "Factor",
+          "Bump.003",
+          "Height"
+        ]
+      ]
+    },
+    {
+      "image": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/material-cache-v19/Walnut_instrument_fascia_basecolor_7a3c787837533913752d.png",
+      "png_sha256": "6d9fa1e805ab9b9e83215bc0f64851264c95249ed0c2823146578e0e22e8b519",
+      "kind": "basecolor",
+      "resolution": 2048,
+      "uv_hash": "b87faa7acdc75964253c8a0ae5cbf934bdf15fb20ebf6392849d1326d63b4687",
+      "source_material": "DP dark open-pore walnut under piano lacquer",
+      "component": "Walnut instrument fascia",
+      "seconds": 3.3473727920791134,
+      "cycles_samples": 8,
+      "statistics": {
+        "covered_sample_count": 65534,
+        "rgb_minmax": [
+          [
+            0.0,
+            0.12156863510608673
+          ],
+          [
+            0.0,
+            0.08235294371843338
+          ],
+          [
+            0.0,
+            0.04313725605607033
+          ]
+        ],
+        "normal_variation": null
+      },
+      "cache_hit": false,
+      "export_material": "BAKE_487e7f57fb810cfd",
+      "connected_source_graph": [
+        [
+          "Color Ramp",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ],
+        [
+          "Noise Texture",
+          "Factor",
+          "Color Ramp",
+          "Factor"
+        ],
+        [
+          "Vector Math",
+          "Vector",
+          "Noise Texture",
+          "Vector"
+        ],
+        [
+          "Texture Coordinate",
+          "Generated",
+          "Vector Math",
+          "Vector"
+        ]
+      ]
+    },
+    {
+      "image": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/material-cache-v19/INT_Front_console_swept_glossy_wood_fascia_basecolor_7e6825e84dec4a7bf00c.png",
+      "png_sha256": "ffeed58b664c48d947c77ffec40e2de8e82b59ee646c692f36cc0419a30aee0e",
+      "kind": "basecolor",
+      "resolution": 2048,
+      "uv_hash": "31337cba16f41757b2ca492a1dc17d9df2efaccab348d70a4e9aeb708997399d",
+      "source_material": "DP dark open-pore walnut under piano lacquer",
+      "component": "INT Front console swept glossy wood fascia",
+      "seconds": 3.123057958087884,
+      "cycles_samples": 8,
+      "statistics": {
+        "covered_sample_count": 65536,
+        "rgb_minmax": [
+          [
+            0.0,
+            0.12941177189350128
+          ],
+          [
+            0.0,
+            0.08627451211214066
+          ],
+          [
+            0.0,
+            0.0470588281750679
+          ]
+        ],
+        "normal_variation": null
+      },
+      "cache_hit": false,
+      "export_material": "BAKE_f4dd931514681157",
+      "connected_source_graph": [
+        [
+          "Color Ramp",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ],
+        [
+          "Noise Texture",
+          "Factor",
+          "Color Ramp",
+          "Factor"
+        ],
+        [
+          "Vector Math",
+          "Vector",
+          "Noise Texture",
+          "Vector"
+        ],
+        [
+          "Texture Coordinate",
+          "Generated",
+          "Vector Math",
+          "Vector"
+        ]
+      ]
+    }
+  ],
+  "quality_accepted": false,
+  "scope": "Preserve authored material detail; no photographic likeness claim",
+  "all_required_bakes": [
+    {
+      "component": "INT Sculpted headliner interior surround",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front left independent headrest upper comfort pad",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front right independent headrest upper comfort pad",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Left rear leather overhead grab handle",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Left grab handle mount -1",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Left grab handle mount 1",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Right rear leather overhead grab handle",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Right grab handle mount -1",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Right grab handle mount 1",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Inner pillar Left A leather wrap",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Inner pillar Left B leather wrap",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Inner pillar Left C leather wrap",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Inner pillar Left upper roof rail leather wrap",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Inner pillar Right A leather wrap",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Inner pillar Right B leather wrap",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Inner pillar Right C leather wrap",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Inner pillar Right upper roof rail leather wrap",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "Left steering leather grip",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "Right steering leather grip",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "Steering airbag hub",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front left contoured leather backrest body",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front left perforated diamond leather backrest cover",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front left covered tuft button 0 -0.166",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front left covered tuft button -0.067 -0.083",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front left covered tuft button 0.067 -0.083",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front left covered tuft button 0 0",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front left covered tuft button -0.067 0.083",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front left covered tuft button 0.067 0.083",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front left covered tuft button 0 0.166",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front left left brogued side piping",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front left right brogued side piping",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front left sculpted seat cushion body",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front left perforated diamond seat cushion cover",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front left upholstered seat valance",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front right contoured leather backrest body",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front right perforated diamond leather backrest cover",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front right covered tuft button 0 -0.166",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front right covered tuft button -0.067 -0.083",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front right covered tuft button 0.067 -0.083",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front right covered tuft button 0 0",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front right covered tuft button -0.067 0.083",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front right covered tuft button 0.067 0.083",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front right covered tuft button 0 0.166",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front right left brogued side piping",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front right right brogued side piping",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front right sculpted seat cushion body",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front right perforated diamond seat cushion cover",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front right upholstered seat valance",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear left contoured leather backrest body",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear left perforated diamond leather backrest cover",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear left covered tuft button 0 -0.166",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear left covered tuft button -0.067 -0.083",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear left covered tuft button 0.067 -0.083",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear left covered tuft button 0 0",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear left covered tuft button -0.067 0.083",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear left covered tuft button 0.067 0.083",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear left covered tuft button 0 0.166",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear left left brogued side piping",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear left right brogued side piping",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear left sculpted seat cushion body",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear left perforated diamond seat cushion cover",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear left upholstered seat valance",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear left sculpted height-adjustable headrest",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear left soft executive head pillow",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear left separate calf support",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear right contoured leather backrest body",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear right perforated diamond leather backrest cover",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear right covered tuft button 0 -0.166",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear right covered tuft button -0.067 -0.083",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear right covered tuft button 0.067 -0.083",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear right covered tuft button 0 0",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear right covered tuft button -0.067 0.083",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear right covered tuft button 0.067 0.083",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear right covered tuft button 0 0.166",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear right left brogued side piping",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear right right brogued side piping",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear right sculpted seat cushion body",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear right perforated diamond seat cushion cover",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear right upholstered seat valance",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear right sculpted height-adjustable headrest",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear right soft executive head pillow",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear right separate calf support",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front left rounded-rectangular headrest cushion",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front right rounded-rectangular headrest cushion",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front left molded full-height rear seat shell",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front left tailored rear shoulder cap",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front left concave flexible rear map pocket",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front left map pocket open bound lip",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front right molded full-height rear seat shell",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front right tailored rear shoulder cap",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front right concave flexible rear map pocket",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front right map pocket open bound lip",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear overhead center switch carrier",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Left flowing rear console leather flank",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Left rear console sculpted diamond side inset",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Right flowing rear console leather flank",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Right rear console sculpted diamond side inset",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear split-hinge executive armrest",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear executive armrest dark quilted insert",
+      "material": "INT titanium grey contrast leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear center refrigerator leather surround",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Rear center refrigerator dark inset",
+      "material": "INT titanium grey contrast leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front center-console lower leather shell",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front center armrest two-piece lid",
+      "material": "INT titanium grey contrast leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Left front continuous formed leather door card",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Left front dark padded upper door bolster",
+      "material": "INT titanium grey contrast leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Left front fine glossy timber insert",
+      "material": "INT walnut piano lacquer",
+      "kind": "basecolor"
+    },
+    {
+      "component": "INT Left front flowing black leather armrest upper",
+      "material": "INT titanium grey contrast leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Left front open lower door map pocket",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Left rear continuous formed leather door card",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Left rear dark padded upper door bolster",
+      "material": "INT titanium grey contrast leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Left rear fine glossy timber insert",
+      "material": "INT walnut piano lacquer",
+      "kind": "basecolor"
+    },
+    {
+      "component": "INT Left rear flowing black leather armrest upper",
+      "material": "INT titanium grey contrast leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Left rear open lower door map pocket",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Right front continuous formed leather door card",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Right front dark padded upper door bolster",
+      "material": "INT titanium grey contrast leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Right front fine glossy timber insert",
+      "material": "INT walnut piano lacquer",
+      "kind": "basecolor"
+    },
+    {
+      "component": "INT Right front flowing black leather armrest upper",
+      "material": "INT titanium grey contrast leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Right front open lower door map pocket",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Right rear continuous formed leather door card",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Right rear dark padded upper door bolster",
+      "material": "INT titanium grey contrast leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Right rear fine glossy timber insert",
+      "material": "INT walnut piano lacquer",
+      "kind": "basecolor"
+    },
+    {
+      "component": "INT Right rear flowing black leather armrest upper",
+      "material": "INT titanium grey contrast leather",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Right rear open lower door map pocket",
+      "material": "INT silk beige semi-aniline leather",
+      "kind": "normal"
+    },
+    {
+      "component": "Dashboard leather upper shell",
+      "material": "DP titanium leather dashboard roll",
+      "kind": "normal"
+    },
+    {
+      "component": "DP Windshield demister swept trough",
+      "material": "DP titanium leather dashboard roll",
+      "kind": "normal"
+    },
+    {
+      "component": "DP Instrument cowl rolled inner return",
+      "material": "INT silk beige semi-aniline leather.001",
+      "kind": "normal"
+    },
+    {
+      "component": "DP Passenger stitched upper fascia",
+      "material": "INT silk beige semi-aniline leather.001",
+      "kind": "normal"
+    },
+    {
+      "component": "DP Driver stitched upper fascia",
+      "material": "INT silk beige semi-aniline leather.001",
+      "kind": "normal"
+    },
+    {
+      "component": "DP Screen lower continuous leather sill",
+      "material": "INT silk beige semi-aniline leather.001",
+      "kind": "normal"
+    },
+    {
+      "component": "Walnut instrument fascia",
+      "material": "DP dark open-pore walnut under piano lacquer",
+      "kind": "basecolor"
+    },
+    {
+      "component": "Dashboard Nappa lower fascia",
+      "material": "INT silk beige semi-aniline leather.001",
+      "kind": "normal"
+    },
+    {
+      "component": "DP Left dashboard upholstered end return",
+      "material": "INT silk beige semi-aniline leather.001",
+      "kind": "normal"
+    },
+    {
+      "component": "DP Right dashboard upholstered end return",
+      "material": "INT silk beige semi-aniline leather.001",
+      "kind": "normal"
+    },
+    {
+      "component": "Glovebox lid",
+      "material": "INT silk beige semi-aniline leather.001",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Front console swept glossy wood fascia",
+      "material": "DP dark open-pore walnut under piano lacquer",
+      "kind": "basecolor"
+    },
+    {
+      "component": "DP Left front console dashboard transition",
+      "material": "INT silk beige semi-aniline leather.001",
+      "kind": "normal"
+    },
+    {
+      "component": "DP Right front console dashboard transition",
+      "material": "INT silk beige semi-aniline leather.001",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Right rear quarter continuous upholstered pillar",
+      "material": "INT silk beige semi-aniline leather.002",
+      "kind": "normal"
+    },
+    {
+      "component": "INT Left rear quarter continuous upholstered pillar",
+      "material": "INT silk beige semi-aniline leather.002",
+      "kind": "normal"
+    }
+  ],
+  "planned_bakes": 18,
+  "leather_limit": 12,
+  "selected_leather_components": [
+    "DP Passenger stitched upper fascia",
+    "Dashboard leather upper shell",
+    "INT Front left molded full-height rear seat shell",
+    "INT Front left perforated diamond leather backrest cover",
+    "INT Front left perforated diamond seat cushion cover",
+    "INT Front right molded full-height rear seat shell",
+    "INT Front right perforated diamond leather backrest cover",
+    "INT Front right perforated diamond seat cushion cover",
+    "INT Rear left perforated diamond leather backrest cover",
+    "INT Rear left perforated diamond seat cushion cover",
+    "INT Rear right perforated diamond leather backrest cover",
+    "INT Rear right perforated diamond seat cushion cover"
+  ],
+  "animation_matrix_error": 0.0,
+  "component_count": 967,
+  "complete_material_scope": false,
+  "unbaked_material_jobs": 121,
+  "constant_sheen_weight_corrections": [
+    {
+      "material": "BAKE_784f1cad3835238f",
+      "native_weight": 0.07000000029802322,
+      "exported_before": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "exported_after": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.07000000029802322
+      ]
+    },
+    {
+      "material": "INT silk beige semi-aniline leather.001",
+      "native_weight": 0.07000000029802322,
+      "exported_before": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "exported_after": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.07000000029802322
+      ]
+    },
+    {
+      "material": "BAKE_29ebd9ed937b0293",
+      "native_weight": 0.07000000029802322,
+      "exported_before": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "exported_after": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.07000000029802322
+      ]
+    },
+    {
+      "material": "DP titanium leather dashboard roll",
+      "native_weight": 0.07000000029802322,
+      "exported_before": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "exported_after": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.07000000029802322
+      ]
+    },
+    {
+      "material": "INT titanium grey contrast leather",
+      "native_weight": 0.07000000029802322,
+      "exported_before": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "exported_after": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.07000000029802322
+      ]
+    },
+    {
+      "material": "INT silk beige semi-aniline leather",
+      "native_weight": 0.07000000029802322,
+      "exported_before": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "exported_after": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.07000000029802322
+      ]
+    },
+    {
+      "material": "BAKE_a2ac5d7e863cea9c",
+      "native_weight": 0.07000000029802322,
+      "exported_before": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "exported_after": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.07000000029802322
+      ]
+    },
+    {
+      "material": "BAKE_29a95eff77de0aff",
+      "native_weight": 0.07000000029802322,
+      "exported_before": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "exported_after": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.07000000029802322
+      ]
+    },
+    {
+      "material": "BAKE_4bab8c9b3ee8d973",
+      "native_weight": 0.07000000029802322,
+      "exported_before": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "exported_after": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.07000000029802322
+      ]
+    },
+    {
+      "material": "BAKE_94c92d95f2775ea8",
+      "native_weight": 0.07000000029802322,
+      "exported_before": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "exported_after": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.07000000029802322
+      ]
+    },
+    {
+      "material": "BAKE_3a97681e979902a3",
+      "native_weight": 0.07000000029802322,
+      "exported_before": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "exported_after": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.07000000029802322
+      ]
+    },
+    {
+      "material": "BAKE_83a7e6d291fa635d",
+      "native_weight": 0.07000000029802322,
+      "exported_before": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "exported_after": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.07000000029802322
+      ]
+    },
+    {
+      "material": "INT silk beige semi-aniline leather.002",
+      "native_weight": 0.07000000029802322,
+      "exported_before": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "exported_after": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.07000000029802322
+      ]
+    },
+    {
+      "material": "BAKE_879ab3794dc8ee92",
+      "native_weight": 0.07000000029802322,
+      "exported_before": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "exported_after": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.07000000029802322
+      ]
+    },
+    {
+      "material": "BAKE_1910b0f918dd7caf",
+      "native_weight": 0.07000000029802322,
+      "exported_before": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "exported_after": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.07000000029802322
+      ]
+    },
+    {
+      "material": "BAKE_fc6120575f3ec5de",
+      "native_weight": 0.07000000029802322,
+      "exported_before": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "exported_after": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.07000000029802322
+      ]
+    },
+    {
+      "material": "BAKE_99edd745c05e5e5e",
+      "native_weight": 0.07000000029802322,
+      "exported_before": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "exported_after": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.07000000029802322
+      ]
+    }
+  ],
+  "glb_audit": {
+    "materials": 113,
+    "images": 21,
+    "animations": 0,
+    "texture_and_uv_errors": [],
+    "draco_primitive_count": 1016,
+    "component_node_count": 967
+  },
+  "source_unchanged": true,
+  "output_glb": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/outputs/ten-photo-alignment/Maybach_Ten_Photo_v19.glb",
+  "glb_sha256": "4c6c180b453e1148202dd6225f9222f920a9100400368259d0d6181122deab74",
+  "glb_bytes": 66062992,
+  "output_blend": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/Maybach_v19_Export_Materials.blend",
+  "visual_review_pending": true
+}

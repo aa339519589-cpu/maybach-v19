@@ -1,0 +1,58 @@
+{
+  "wheels": [
+    {
+      "wheel": "Front left",
+      "hole_count": 20,
+      "closed_disc": true,
+      "source": "user photographs",
+      "tyre_dimensions_preserved": true,
+      "front_surface_analytic_normals": 75080,
+      "vent_recess_m": 0.004
+    },
+    {
+      "wheel": "Front right",
+      "hole_count": 20,
+      "closed_disc": true,
+      "source": "user photographs",
+      "tyre_dimensions_preserved": true,
+      "front_surface_analytic_normals": 75080,
+      "vent_recess_m": 0.004
+    },
+    {
+      "wheel": "Rear left",
+      "hole_count": 20,
+      "closed_disc": true,
+      "source": "user photographs",
+      "tyre_dimensions_preserved": true,
+      "front_surface_analytic_normals": 75080,
+      "vent_recess_m": 0.004
+    },
+    {
+      "wheel": "Rear right",
+      "hole_count": 20,
+      "closed_disc": true,
+      "source": "user photographs",
+      "tyre_dimensions_preserved": true,
+      "front_surface_analytic_normals": 75080,
+      "vent_recess_m": 0.004
+    }
+  ],
+  "lighting": "Three shortened rising torches per headlamp, lit main and outboard modules; clear cover silhouette preserved",
+  "door_frame_faces": {
+    "Roof and pillar outer framework": 6226,
+    "Left front door upper window frame": 462,
+    "Left rear door upper window frame": 521,
+    "Right front door upper window frame": 462,
+    "Right rear door upper window frame": 521
+  },
+  "reference_images": 10,
+  "components": 965,
+  "animation_return_error_m": 0,
+  "quality_accepted": false,
+  "unresolved": [
+    "Full photographic material agreement",
+    "Camera fit is approximate, not dimensional validation",
+    "Tiny screen popup wording and dealer emblem",
+    "Interior and exterior final visual acceptance"
+  ]
+}

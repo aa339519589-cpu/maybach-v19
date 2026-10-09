@@ -1,0 +1,37 @@
+{
+  "source_boundary_vectorization_error_m": 1.1102230246251565e-16,
+  "objects": [
+    {
+      "object": "Trunk lid outer assembly",
+      "repaired_cap_faces": 1200,
+      "repaired_tail_faces": 1471,
+      "repaired_area_m2": [
+        0.39608897409532684,
+        0.5125024970896646
+      ],
+      "repaired_corners": 10883,
+      "unmatched_faces_preserved": 8743,
+      "before_p95_deg": 1.3645311540630087,
+      "before_max_deg": 97.10074167906093,
+      "after_p95_deg": 0.013388287387415336,
+      "after_max_deg": 0.38887187273983453,
+      "geometry_max_change_m": 0
+    },
+    {
+      "object": "Rear bumper cover",
+      "repaired_cap_faces": 0,
+      "repaired_tail_faces": 3608,
+      "repaired_area_m2": [
+        0.0,
+        1.023968648961113
+      ],
+      "repaired_corners": 14725,
+      "unmatched_faces_preserved": 4682,
+      "before_p95_deg": 0.864056197592493,
+      "before_max_deg": 53.71476917282969,
+      "after_p95_deg": 0.020607232867703378,
+      "after_max_deg": 0.494126243022783,
+      "geometry_max_change_m": 0
+    }
+  ]
+}
