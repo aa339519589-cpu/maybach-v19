@@ -3,7 +3,9 @@
 本项目开源了基于 10 张展厅/实拍照片进行的迈巴赫（Maybach S650 / W222）高精度 3D 还原工程资料包（版本 v19）。
 
 > 本项目完全开源（Open Source），遵循 MIT License。
-> 完整打包文件 `Maybach_Ten_Photo_v19_Package.zip` 亦已同步上传至 [Releases](../../releases)。
+> 
+> 📦 **完整单文件压缩包一键下载**：[Maybach_Ten_Photo_v19_Package.zip (168.2 MB)](https://github.com/aa339519589-cpu/maybach-v19/releases/download/v19/Maybach_Ten_Photo_v19_Package.zip)  
+> 🏷️ **GitHub Release 页面**：[Release v19](https://github.com/aa339519589-cpu/maybach-v19/releases/tag/v19)
 
 ---
 
