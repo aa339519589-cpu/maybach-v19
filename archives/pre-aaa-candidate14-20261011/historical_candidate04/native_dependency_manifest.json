@@ -1,0 +1,106 @@
+{
+  "snapshot": "Candidate04, continuing original-photo reconstruction",
+  "createdUtc": "2026-10-10T16:47:42.108750+00:00",
+  "masterSha256": "e7ed78cc1fe787f875387b792eb84ed24dcb7ffefcad63324ee160d6789320d3",
+  "allNativeImageDependencies": 8,
+  "alreadyPackedIntoBlend": true,
+  "linkedLibraries": 0,
+  "externalUnpackedMissing": 0,
+  "files": [
+    {
+      "path": "assets/packed_images/authored_radio_screen.png",
+      "bytes": 22316,
+      "sha256": "aaeaa138caf9454bf4b7828411bb681cb9f3b91853f0ed0e9bfcb7dd09739216"
+    },
+    {
+      "path": "assets/packed_images/C21_F1_RearGlass_baseColor_sRGB.png",
+      "bytes": 40521,
+      "sha256": "fe18a767e34e27ff57d53a5a21798ea771d8b392aa80e0690e1da13d7a51b41d"
+    },
+    {
+      "path": "assets/packed_images/C21_F1_RearGlass_transmission_linear.png",
+      "bytes": 31576,
+      "sha256": "38b592c5a7db62a611e592b470a3bacc889a3e68570dfdf2daa6982093f73cfa"
+    },
+    {
+      "path": "assets/packed_images/C21_F2_FrontWindshield_baseColor_sRGB.png",
+      "bytes": 43304,
+      "sha256": "a724443e88f124ff3a295fbd4b612723987a7779bb4617ab121465f917e538e5"
+    },
+    {
+      "path": "assets/packed_images/C21_F2_FrontWindshield_transmission_linear.png",
+      "bytes": 35955,
+      "sha256": "28456b694cddf7fad8193329157f73d8038b6518e1ba4fa43a2926ef1473d1a6"
+    },
+    {
+      "path": "assets/packed_images/comand_photo04_layout.png",
+      "bytes": 65685,
+      "sha256": "c208da08895949c12f4fc3641da813b1df7c4d8664e1646a9413983bfb732b85"
+    },
+    {
+      "path": "assets/packed_images/instrument_photo04_layout.png",
+      "bytes": 98374,
+      "sha256": "624b9cced84a6076b2257fb7d839b980823e479191028bb4a3998ac442c27a82"
+    },
+    {
+      "path": "assets/packed_images/MT6_AUTHORED_32BIT_STUDIO.exr",
+      "bytes": 33571252,
+      "sha256": "953df987cb5db93a692fa7a737ba9f8eb63f1cf6e6d181454ca8ef638b1719e8"
+    },
+    {
+      "path": "SWITCH_VIEW.py",
+      "bytes": 2126,
+      "sha256": "cecbe887c98583a06a5ea17125665492b8a1db27899ad6520aaa501f99421df7"
+    },
+    {
+      "path": "references/Photo_01.jpg",
+      "bytes": 110399,
+      "sha256": "48ff165bde3acc042e7e3e279997b056aab03a87d1a7aca9983080aabe641e8b"
+    },
+    {
+      "path": "references/Photo_02.jpg",
+      "bytes": 105364,
+      "sha256": "18fbdf9cc69a98c8a22fede78d23d52a0cc3573518e9a7b3f6a370a031f26381"
+    },
+    {
+      "path": "references/Photo_03.jpg",
+      "bytes": 107005,
+      "sha256": "12000f18dc14f0876b2ee1d4f907afe43d8042672f9f201803a6d8116954b325"
+    },
+    {
+      "path": "references/Photo_04.jpg",
+      "bytes": 140543,
+      "sha256": "2207b4f0e1a0f62582cfc4b86e0458c6119f54b724ae5c23f5d1cda1b687a953"
+    },
+    {
+      "path": "references/Photo_05.jpg",
+      "bytes": 104993,
+      "sha256": "569af0b65d78f288aa8c538b5640880dcfd7bc0d14611e3651a21e5ba7b2584a"
+    },
+    {
+      "path": "references/Photo_06.jpg",
+      "bytes": 125634,
+      "sha256": "5efd25a7f1e29eec255d2e261ee4a51ab53ffd96457bf89b446a8da755fb9069"
+    },
+    {
+      "path": "references/Photo_07.jpg",
+      "bytes": 127184,
+      "sha256": "45a973ef146464afc7af3c20dfdb5192159d4792cc3792a16fa72a95785629c9"
+    },
+    {
+      "path": "references/Photo_08.jpg",
+      "bytes": 135221,
+      "sha256": "1766098c1dc1f4d297379bf40df74abfd277ff6d7aaca883c2244847e04a186a"
+    },
+    {
+      "path": "references/Photo_09.jpg",
+      "bytes": 126994,
+      "sha256": "78bcd685d387cf46b47bd8249742fb9d7cff4d50cf74507463611ee3daac2ba8"
+    },
+    {
+      "path": "references/Photo_10.jpg",
+      "bytes": 111979,
+      "sha256": "11d671e5776c83026beb6b7ffeacad5e4e5ff99c0a38eac2c646c8b805652679"
+    }
+  ]
+}

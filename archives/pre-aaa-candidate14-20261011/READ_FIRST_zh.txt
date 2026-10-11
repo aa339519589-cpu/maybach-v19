@@ -1,0 +1,5 @@
+本包为原生候选14的交接文档与来源资料，不含109MB BLEND、GLB或完整贴图库。
+请先看 Maybach14_PreAAA_Handoff.docx 或 .md。
+主工程另存于Library：libfile_49751b9f38d48191aee4126750610758。
+模型未完成整车照片复原；本次没有运行Blender或恢复建模。
+historical_candidate04中的旧说明仅供历史对照，不是14的打开参数。

@@ -1,0 +1,281 @@
+{
+  "scope": "AAA重建之前的原生候选14；文档与来源资料；不包含模型或GLB",
+  "checked_beijing": "2026-10-11 19:13:38",
+  "method": "Read-only binary extraction; no Blender execution",
+  "master": {
+    "filename": "master_candidate_14.blend",
+    "bytes": 108834944,
+    "sha256": "5210597b1a5e6c56aa44e1df3d04780a628b0ea214b846e22b1112453d9534f5",
+    "library_file_id": "libfile_49751b9f38d48191aee4126750610758",
+    "historical_path": "/workspace/shared/maybach-multitool-20261010/route1/master_candidate_14.blend"
+  },
+  "component_count": 970,
+  "action_data_blocks": 970,
+  "linked_library_blocks": 0,
+  "fonts": [
+    "Bfont Regular"
+  ],
+  "scene": {
+    "name": "Scene",
+    "active_camera": "MT6_CAM_HERO_FRONT",
+    "render_engine": "CYCLES",
+    "output_path": "//renders/Maybach_hero_front.png",
+    "cfra": 1,
+    "sfra": 1,
+    "efra": 160,
+    "xsch": 2560,
+    "ysch": 1600,
+    "fps": 24,
+    "percentage": 100
+  },
+  "presets": {
+    "reference_showroom": {
+      "world": "MT6_WORLD_Showroom",
+      "camera": "MT6_CAM_REF05",
+      "size": [
+        1400,
+        1400
+      ],
+      "purpose": "Bright reference-matched showroom; shape review, not a concealment grade."
+    },
+    "hero_front": {
+      "world": "MT6_WORLD_Studio",
+      "camera": "MT6_CAM_HERO_FRONT",
+      "size": [
+        2560,
+        1600
+      ],
+      "purpose": "Broad neutral front three-quarter; black paint and clean ribbon reflections."
+    },
+    "rear_daylight": {
+      "world": "MT6_WORLD_Daylight",
+      "camera": "MT6_CAM_HERO_REAR",
+      "size": [
+        1920,
+        1200
+      ],
+      "purpose": "Bright rear three-quarter with shoulder and long-tail downturn visible."
+    },
+    "side_profile": {
+      "world": "MT6_WORLD_Daylight",
+      "camera": "MT6_CAM_SIDE",
+      "size": [
+        2400,
+        1200
+      ],
+      "purpose": "Orthographic dimensional audit; no lens-proportion trick."
+    },
+    "interior_front": {
+      "world": "MT6_WORLD_Showroom",
+      "camera": "MT6_CAM_INTERIOR_FRONT",
+      "size": [
+        1600,
+        1200
+      ],
+      "purpose": "Physical cabin camera, no shell hiding. Requires full-model collision check."
+    },
+    "interior_rear": {
+      "world": "MT6_WORLD_Showroom",
+      "camera": "MT6_CAM_INTERIOR_REAR",
+      "size": [
+        2400,
+        1714
+      ],
+      "purpose": "Physical rear cabin camera, no shell hiding. Requires full-model collision check."
+    },
+    "rear_studio": {
+      "world": "MT6_WORLD_Studio",
+      "camera": "MT6_CAM_HERO_REAR",
+      "size": [
+        2560,
+        1600
+      ],
+      "purpose": "Neutral physical cyclorama; narrow forward-positioned rear studio lamps; tail-downflow visible."
+    }
+  },
+  "embedded_texts": [
+    {
+      "name": "MAYBACH_MULTITOOL_README",
+      "bytes": 3779,
+      "sha256": "9cbbe4a533ee52ef21236e4b5e3a798371c451701d53f090a876c23e6edf28e7"
+    },
+    {
+      "name": "SWITCH_VIEW.py",
+      "bytes": 2426,
+      "sha256": "b60b36ed3ad0ba8a8e1515e15a8d3810d4c8c66ba769a90d693cb698ad3ca25c"
+    }
+  ],
+  "packed_resources": [
+    {
+      "name": "authored_radio_screen.png",
+      "path": "//assets/packed_images/authored_radio_screen.png",
+      "packed": [
+        {
+          "filepath": "/workspace/shared/maybach_interior/references/authored_radio_screen.png",
+          "filename": "authored_radio_screen.png",
+          "bytes": 22316,
+          "sha256": "aaeaa138caf9454bf4b7828411bb681cb9f3b91853f0ed0e9bfcb7dd09739216"
+        }
+      ]
+    },
+    {
+      "name": "C21_F1_RearGlass_baseColor_sRGB",
+      "path": "//assets/packed_images/C21_F1_RearGlass_baseColor_sRGB.png",
+      "packed": [
+        {
+          "filepath": "/workspace/shared/maybach-interior-c21/rear_frit_F1/RearGlass_F1_baseColor_sRGB.png",
+          "filename": "RearGlass_F1_baseColor_sRGB.png",
+          "bytes": 40521,
+          "sha256": "fe18a767e34e27ff57d53a5a21798ea771d8b392aa80e0690e1da13d7a51b41d"
+        }
+      ]
+    },
+    {
+      "name": "C21_F1_RearGlass_transmission_linear",
+      "path": "//assets/packed_images/C21_F1_RearGlass_transmission_linear.png",
+      "packed": [
+        {
+          "filepath": "/workspace/shared/maybach-interior-c21/rear_frit_F1/RearGlass_F1_transmission_linear.png",
+          "filename": "RearGlass_F1_transmission_linear.png",
+          "bytes": 31576,
+          "sha256": "38b592c5a7db62a611e592b470a3bacc889a3e68570dfdf2daa6982093f73cfa"
+        }
+      ]
+    },
+    {
+      "name": "C21_F2_FrontWindshield_baseColor_sRGB",
+      "path": "//assets/packed_images/C21_F2_FrontWindshield_baseColor_sRGB.png",
+      "packed": [
+        {
+          "filepath": "/workspace/shared/maybach-interior-c21/front_frit_F2/FrontWindshield_F2_baseColor_sRGB.png",
+          "filename": "FrontWindshield_F2_baseColor_sRGB.png",
+          "bytes": 43304,
+          "sha256": "a724443e88f124ff3a295fbd4b612723987a7779bb4617ab121465f917e538e5"
+        }
+      ]
+    },
+    {
+      "name": "C21_F2_FrontWindshield_transmission_linear",
+      "path": "//assets/packed_images/C21_F2_FrontWindshield_transmission_linear.png",
+      "packed": [
+        {
+          "filepath": "/workspace/shared/maybach-interior-c21/front_frit_F2/FrontWindshield_F2_transmission_linear.png",
+          "filename": "FrontWindshield_F2_transmission_linear.png",
+          "bytes": 35955,
+          "sha256": "28456b694cddf7fad8193329157f73d8038b6518e1ba4fa43a2926ef1473d1a6"
+        }
+      ]
+    },
+    {
+      "name": "comand_photo04_layout.png",
+      "path": "//assets/packed_images/comand_photo04_layout.png",
+      "packed": [
+        {
+          "filepath": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/textures/comand_photo04_layout.png",
+          "filename": "comand_photo04_layout.png",
+          "bytes": 65685,
+          "sha256": "c208da08895949c12f4fc3641da813b1df7c4d8664e1646a9413983bfb732b85"
+        }
+      ]
+    },
+    {
+      "name": "instrument_photo04_layout.png",
+      "path": "//assets/packed_images/instrument_photo04_layout.png",
+      "packed": [
+        {
+          "filepath": "/Users/mima1234/Documents/Codex/2026-10-07/20261007-chatgpt-library-folder-6ac5dd967e8881918935c7afa78f27a4-2/work/refinement/textures/instrument_photo04_layout.png",
+          "filename": "instrument_photo04_layout.png",
+          "bytes": 98374,
+          "sha256": "624b9cced84a6076b2257fb7d839b980823e479191028bb4a3998ac442c27a82"
+        }
+      ]
+    },
+    {
+      "name": "MT5_OutwardShoulderEmission_sRGB_v1",
+      "path": "/workspace/shared/maybach-multitool-20261010/route5_next/tail_outward_chromatic_shoulders_v1.png",
+      "packed": [
+        {
+          "filepath": "/workspace/shared/maybach-multitool-20261010/route5_next/tail_outward_chromatic_shoulders_v1.png",
+          "filename": "tail_outward_chromatic_shoulders_v1.png",
+          "bytes": 158,
+          "sha256": "53e9a9ace2119a2fe43bb670350344669f85f87b4fc23fa9652c429962d2a641"
+        }
+      ]
+    },
+    {
+      "name": "MT6_AUTHORED_32BIT_STUDIO",
+      "path": "//assets/packed_images/MT6_AUTHORED_32BIT_STUDIO.exr",
+      "packed": [
+        {
+          "filepath": "/workspace/shared/maybach-multitool-20261010/route6/assets/MT6_authored_studio_2k.exr",
+          "filename": "MT6_authored_studio_2k.exr",
+          "bytes": 33571252,
+          "sha256": "953df987cb5db93a692fa7a737ba9f8eb63f1cf6e6d181454ca8ef638b1719e8"
+        }
+      ]
+    },
+    {
+      "name": "Render Result",
+      "path": "",
+      "packed": []
+    }
+  ],
+  "references_verified_against_candidate04_manifest": [
+    {
+      "path": "references/Photo_01.jpg",
+      "bytes": 110399,
+      "sha256": "48ff165bde3acc042e7e3e279997b056aab03a87d1a7aca9983080aabe641e8b"
+    },
+    {
+      "path": "references/Photo_02.jpg",
+      "bytes": 105364,
+      "sha256": "18fbdf9cc69a98c8a22fede78d23d52a0cc3573518e9a7b3f6a370a031f26381"
+    },
+    {
+      "path": "references/Photo_03.jpg",
+      "bytes": 107005,
+      "sha256": "12000f18dc14f0876b2ee1d4f907afe43d8042672f9f201803a6d8116954b325"
+    },
+    {
+      "path": "references/Photo_04.jpg",
+      "bytes": 140543,
+      "sha256": "2207b4f0e1a0f62582cfc4b86e0458c6119f54b724ae5c23f5d1cda1b687a953"
+    },
+    {
+      "path": "references/Photo_05.jpg",
+      "bytes": 104993,
+      "sha256": "569af0b65d78f288aa8c538b5640880dcfd7bc0d14611e3651a21e5ba7b2584a"
+    },
+    {
+      "path": "references/Photo_06.jpg",
+      "bytes": 125634,
+      "sha256": "5efd25a7f1e29eec255d2e261ee4a51ab53ffd96457bf89b446a8da755fb9069"
+    },
+    {
+      "path": "references/Photo_07.jpg",
+      "bytes": 127184,
+      "sha256": "45a973ef146464afc7af3c20dfdb5192159d4792cc3792a16fa72a95785629c9"
+    },
+    {
+      "path": "references/Photo_08.jpg",
+      "bytes": 135221,
+      "sha256": "1766098c1dc1f4d297379bf40df74abfd277ff6d7aaca883c2244847e04a186a"
+    },
+    {
+      "path": "references/Photo_09.jpg",
+      "bytes": 126994,
+      "sha256": "78bcd685d387cf46b47bd8249742fb9d7cff4d50cf74507463611ee3daac2ba8"
+    },
+    {
+      "path": "references/Photo_10.jpg",
+      "bytes": 111979,
+      "sha256": "11d671e5776c83026beb6b7ffeacad5e4e5ff99c0a38eac2c646c8b805652679"
+    }
+  ],
+  "historical_v12_glb": {
+    "file": "Maybach_Multitool_preserved_v12.glb",
+    "bytes": 191590568,
+    "sha256": "ed682f145ce405ce531ba9c94dfa8068e7b1126d15a42d89fc4d9d05c56172f2",
+    "status": "Not recovered or delivered; equivalence to native14 unverified"
+  }
+}

@@ -1,0 +1,296 @@
+[
+  {
+    "path": "MAYBACH_MULTITOOL_README_original.txt",
+    "bytes": 3779,
+    "sha256": "9cbbe4a533ee52ef21236e4b5e3a798371c451701d53f090a876c23e6edf28e7",
+    "git_blob_sha1": "844cd7577805de477444f8d48ef289bd160f488b"
+  },
+  {
+    "path": "MISSING_AND_SCOPE.md",
+    "bytes": 1708,
+    "sha256": "da62b738d0e682e2810bd8c1d0430d18390fb61b4d48c9f11be03aa27e28e7f3",
+    "git_blob_sha1": "b7c5f174e75326ad19cf2631ba99dc48a5ddde49"
+  },
+  {
+    "path": "MODEL_PARTS.json",
+    "bytes": 3606,
+    "sha256": "55c21b66b44fadd530468155708f001ad81c22c3a63fad4865616b338144430b",
+    "git_blob_sha1": "e464f01ff2fe5f55b35a8e9e3a38819daf3c7cd0"
+  },
+  {
+    "path": "Maybach14_PreAAA_Documentation_and_Source.zip",
+    "bytes": 1828419,
+    "sha256": "023b9ba05467c855cacafe280f038bfe70d1015c691606b4412809ea45fa3cad",
+    "git_blob_sha1": "3339beca38a0f702a07ec694f08b07b90af5b5ee"
+  },
+  {
+    "path": "Maybach14_PreAAA_Handoff.docx",
+    "bytes": 192347,
+    "sha256": "0f1b381f47d1c92ee369f153f2a4b6d9d2fa3d1dec8b7684b2a725ca70c7af49",
+    "git_blob_sha1": "1f02d60a96ac6e972066cce9ee2bd70aee03fa10"
+  },
+  {
+    "path": "Maybach14_PreAAA_Handoff.md",
+    "bytes": 17804,
+    "sha256": "1c4f932494e3249746457d8881e797d2bb2adde119fe915ee25f964c832cb4c7",
+    "git_blob_sha1": "22194521450a5d7f1abbf5a4b0679c91c0ad3d1f"
+  },
+  {
+    "path": "Maybach14_verified_manifest.json",
+    "bytes": 9502,
+    "sha256": "432a1f2ad01bc90052bb423f5d94de3d45330d3b1584f9c559e0207b6f45b433",
+    "git_blob_sha1": "f61c0d0288207a702fd3c7607ffad5c504d85630"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2839,
+    "sha256": "a7b58bb6b77816add3f4de3443910d9c4e5786ada003646f269bf65b9a020f13",
+    "git_blob_sha1": "63f70a8db7043463071fbc96872a3c87443907b2"
+  },
+  {
+    "path": "READ_FIRST_zh.txt",
+    "bytes": 389,
+    "sha256": "c6fb0a0bc57c9e11dc54a919e29d917c783a0827267ea760f8e5117b4cfa9ddd",
+    "git_blob_sha1": "94e89e8bf041fdd8e1ae8b2db976352a41339c03"
+  },
+  {
+    "path": "historical_candidate04/OPEN_AND_RENDER_zh.md",
+    "bytes": 2505,
+    "sha256": "7bda06d6c8fec5ca02a4d8fafe404bc2d45ff826627559229f8f1dc83e7b638d",
+    "git_blob_sha1": "d6235501c06ff526301724d0f8482e0ad39e400e"
+  },
+  {
+    "path": "historical_candidate04/native_dependency_manifest.json",
+    "bytes": 3631,
+    "sha256": "5c985a7a57797932636047824699867ca8f38a66696bdc61215f709e9dd2a042",
+    "git_blob_sha1": "5600bed4a33482cf0c0c3f8bb68a42e62ab4bc17"
+  },
+  {
+    "path": "model/master_candidate_14.blend.parts/part-001",
+    "bytes": 6291456,
+    "sha256": "7cd514ba54fbf655e33efa69ea95bc1a137a25070be59cc79260405ce87e42c3",
+    "git_blob_sha1": "1f0fab5e9b6a628d68d80ee1536e045e3951a378"
+  },
+  {
+    "path": "model/master_candidate_14.blend.parts/part-002",
+    "bytes": 6291456,
+    "sha256": "b3f482b8c86e3217d381cf6ddb1fd3443dbb8c2341b5f230105f1ba1bfb98ab2",
+    "git_blob_sha1": "38055bf5c72092d4aebccc75c43f146a656e4b8f"
+  },
+  {
+    "path": "model/master_candidate_14.blend.parts/part-003",
+    "bytes": 6291456,
+    "sha256": "32306e088be247bed1f3d252656d5411b0ac3b6087fe391a8ef46b09d26a9813",
+    "git_blob_sha1": "519b3f159c83de11a70be692b4878c50155239b5"
+  },
+  {
+    "path": "model/master_candidate_14.blend.parts/part-004",
+    "bytes": 6291456,
+    "sha256": "87228c8c16da25401daa7e14d65e2f367dffb1a184657eed17855efb09a63b89",
+    "git_blob_sha1": "3b80edaae092175e8b9886812db2e1bd82abaae2"
+  },
+  {
+    "path": "model/master_candidate_14.blend.parts/part-005",
+    "bytes": 6291456,
+    "sha256": "0625eb8b951832ae423c913721289cf644730634a54bef35478b91a1f1b73caf",
+    "git_blob_sha1": "fa64403d637f2500dfade1e33dcb70cfa16c1377"
+  },
+  {
+    "path": "model/master_candidate_14.blend.parts/part-006",
+    "bytes": 6291456,
+    "sha256": "52db7dfc9de0172f835fe37d8a586b8760145007b9ea2cb567f3dbed46a6d89b",
+    "git_blob_sha1": "573597049faf238675ad3cb27838c2c6fbd3e5b5"
+  },
+  {
+    "path": "model/master_candidate_14.blend.parts/part-007",
+    "bytes": 6291456,
+    "sha256": "b0afd97b5e81cde8aead8a687d6b1d2db64486272dcd5ea021992ed9d50ebc1d",
+    "git_blob_sha1": "4625705076926e3bea23850b3f5e6c4022b34e80"
+  },
+  {
+    "path": "model/master_candidate_14.blend.parts/part-008",
+    "bytes": 6291456,
+    "sha256": "40f6a2dd7be0b61f1b5cf961aca98796c696426e8519721586c0fb8d39983b5f",
+    "git_blob_sha1": "a474655fdf10220edba9a7d3c21ec5f6748224da"
+  },
+  {
+    "path": "model/master_candidate_14.blend.parts/part-009",
+    "bytes": 6291456,
+    "sha256": "0ef11cb4c5cb2e64eeec0eeeccff80960f6605310ee218ade306206c50ec587f",
+    "git_blob_sha1": "343dc952a9ea8cf287e8ef003ce8b218591c18a1"
+  },
+  {
+    "path": "model/master_candidate_14.blend.parts/part-010",
+    "bytes": 6291456,
+    "sha256": "ca0c841a746680db370e37b95a57e7cec3494d5496d1f0a3da9f02107c0d67c1",
+    "git_blob_sha1": "0cbe45ce474ddcd5aa14980ab87ef4a01396e27b"
+  },
+  {
+    "path": "model/master_candidate_14.blend.parts/part-011",
+    "bytes": 6291456,
+    "sha256": "5d1c283d218387c27175dad391b2eac66abe52c3e6297d580b5fe0467251ad87",
+    "git_blob_sha1": "db0dea26cf85c125ce1238875fa771b1c49da18e"
+  },
+  {
+    "path": "model/master_candidate_14.blend.parts/part-012",
+    "bytes": 6291456,
+    "sha256": "7e91a637f8fcb941815373c92d28f0d41902701e21317c287facaf0d2c45ebe1",
+    "git_blob_sha1": "6ceb7132e494565b5efea652b730ddb292af36a8"
+  },
+  {
+    "path": "model/master_candidate_14.blend.parts/part-013",
+    "bytes": 6291456,
+    "sha256": "105fb5e4df446c0e0afc0cd127e37732702141d46fc7fbd01fd8c72f4810dc1e",
+    "git_blob_sha1": "4b3cef013446648295387f2e78669145860a540b"
+  },
+  {
+    "path": "model/master_candidate_14.blend.parts/part-014",
+    "bytes": 6291456,
+    "sha256": "8ffc30e596b32a79af499e5184c9d484636995b74348bc55d138bf6b10d9887e",
+    "git_blob_sha1": "6562e5c15b1b0a67bd3b01256c6c690f28becf0a"
+  },
+  {
+    "path": "model/master_candidate_14.blend.parts/part-015",
+    "bytes": 6291456,
+    "sha256": "572a6a7feaf93c563556d875d096b864990be6f7bc2f064018b92287a1e7a02f",
+    "git_blob_sha1": "af0f51285d1c2757f71a63ae8767dfb8c37d0f6b"
+  },
+  {
+    "path": "model/master_candidate_14.blend.parts/part-016",
+    "bytes": 6291456,
+    "sha256": "d2d7411f32fecfba66db087ce1aab249f2a0f00e4e88006a0b639b2f8490f3ad",
+    "git_blob_sha1": "0b936204e6d2dca9d7af0bb9b11fca8cb8628a76"
+  },
+  {
+    "path": "model/master_candidate_14.blend.parts/part-017",
+    "bytes": 6291456,
+    "sha256": "3b868b89c719362a40c25ab3a3d72d6a25e804bd71e6d819483eb8267e7666ee",
+    "git_blob_sha1": "b6b820a29e9cf667645a5b56ebc98866ea78f87f"
+  },
+  {
+    "path": "model/master_candidate_14.blend.parts/part-018",
+    "bytes": 1880192,
+    "sha256": "2efe489ff79361871d4965dbcaa521184313adcc0d5eec0aba1ab699e2c648ec",
+    "git_blob_sha1": "5afa2bec9e1b9db571a7d6947d9cc2ed5ec9dfab"
+  },
+  {
+    "path": "native14/SWITCH_VIEW.py",
+    "bytes": 2426,
+    "sha256": "b60b36ed3ad0ba8a8e1515e15a8d3810d4c8c66ba769a90d693cb698ad3ca25c",
+    "git_blob_sha1": "0641139d865487140ace41f3a5b8378936d0bf68"
+  },
+  {
+    "path": "native14/component_names.json",
+    "bytes": 40527,
+    "sha256": "eb836ddabe102a427994e101641d883ead7096c7e5be9ade15fec7b04ef2a658",
+    "git_blob_sha1": "db06ce5fc04f7b518feeb302a67dde5f15775081"
+  },
+  {
+    "path": "reassemble_model.py",
+    "bytes": 1544,
+    "sha256": "f8b06d6aa1f501530bafdc953b1dba237ffb3ee656bf2a0ba7cacd784b34ae5f",
+    "git_blob_sha1": "521f3e733a1b3c5b2af6e253f6cbd5f8606e5e1e"
+  },
+  {
+    "path": "reference_evidence/4D288536-ED22-47AC-9A88-730F40F417E9.jpeg",
+    "bytes": 153455,
+    "sha256": "1af44cc4ba54d3664266e8e6fd431ba626914d5f2ed838ef6e0684dcfb72e5e3",
+    "git_blob_sha1": "cd0656cc6c29cfc06c26c766b05f0042825be747"
+  },
+  {
+    "path": "reference_evidence/6D133FA3-FEE2-417F-86D3-34DDF0BCE62E(1).jpeg",
+    "bytes": 179784,
+    "sha256": "a7f18dea0f96c816d52318c21b70db71183817eb260bccbc1c88ccacbb80b6f8",
+    "git_blob_sha1": "9cbe987360e1959d67d91ce2276b083e54f8f148"
+  },
+  {
+    "path": "reference_evidence/8EEE9A52-F1C4-482C-89F7-2176B7CA82DB(1).jpeg",
+    "bytes": 193614,
+    "sha256": "666556565bf4171da42e8c8104470fc22bcae3f7ac25334ca2f2d5ee37bff51f",
+    "git_blob_sha1": "57768b6f3396e786e6b0b82d2fcd39484674f38f"
+  },
+  {
+    "path": "references/Photo_01.jpg",
+    "bytes": 110399,
+    "sha256": "48ff165bde3acc042e7e3e279997b056aab03a87d1a7aca9983080aabe641e8b",
+    "git_blob_sha1": "6e6811cb1a2cf20c1464ff6058cebffda2df737d"
+  },
+  {
+    "path": "references/Photo_02.jpg",
+    "bytes": 105364,
+    "sha256": "18fbdf9cc69a98c8a22fede78d23d52a0cc3573518e9a7b3f6a370a031f26381",
+    "git_blob_sha1": "d840dc6b8470e2acc458d79e1b032df0f1b587e7"
+  },
+  {
+    "path": "references/Photo_03.jpg",
+    "bytes": 107005,
+    "sha256": "12000f18dc14f0876b2ee1d4f907afe43d8042672f9f201803a6d8116954b325",
+    "git_blob_sha1": "916203b78df30283500f8dc9503ba25caa20cfcb"
+  },
+  {
+    "path": "references/Photo_04.jpg",
+    "bytes": 140543,
+    "sha256": "2207b4f0e1a0f62582cfc4b86e0458c6119f54b724ae5c23f5d1cda1b687a953",
+    "git_blob_sha1": "4b42e15d7c626b850fc507dcff67747f886e9034"
+  },
+  {
+    "path": "references/Photo_05.jpg",
+    "bytes": 104993,
+    "sha256": "569af0b65d78f288aa8c538b5640880dcfd7bc0d14611e3651a21e5ba7b2584a",
+    "git_blob_sha1": "0fd489ec394ec3cfbc7d75a20bc0d95d3ce2efd2"
+  },
+  {
+    "path": "references/Photo_06.jpg",
+    "bytes": 125634,
+    "sha256": "5efd25a7f1e29eec255d2e261ee4a51ab53ffd96457bf89b446a8da755fb9069",
+    "git_blob_sha1": "813f998e138e8575254d66513d0810dc4f86cf27"
+  },
+  {
+    "path": "references/Photo_07.jpg",
+    "bytes": 127184,
+    "sha256": "45a973ef146464afc7af3c20dfdb5192159d4792cc3792a16fa72a95785629c9",
+    "git_blob_sha1": "a0fc4c5026046dbe64bbe03ffe6c6875a2dace68"
+  },
+  {
+    "path": "references/Photo_08.jpg",
+    "bytes": 135221,
+    "sha256": "1766098c1dc1f4d297379bf40df74abfd277ff6d7aaca883c2244847e04a186a",
+    "git_blob_sha1": "8926215b5f3b2596d296783d1053f09d4a3375a3"
+  },
+  {
+    "path": "references/Photo_09.jpg",
+    "bytes": 126994,
+    "sha256": "78bcd685d387cf46b47bd8249742fb9d7cff4d50cf74507463611ee3daac2ba8",
+    "git_blob_sha1": "ef9d56ad5785fcc45397eb3af44a469f12a21e42"
+  },
+  {
+    "path": "references/Photo_10.jpg",
+    "bytes": 111979,
+    "sha256": "11d671e5776c83026beb6b7ffeacad5e4e5ff99c0a38eac2c646c8b805652679",
+    "git_blob_sha1": "cec76d5b0fb6b5030ef96f015b1b107d0e8d9a52"
+  },
+  {
+    "path": "renders/Maybach14_Front_REF05.png",
+    "bytes": 6471867,
+    "sha256": "5328c13bc6a356fe41993b397edc7b09e24e13fdc1b14020ee7e7bf03cf4e178",
+    "git_blob_sha1": "98bf754bc57acf6b8bc0a7c5affd2cd0b0624738"
+  },
+  {
+    "path": "renders/Maybach14_Interior_Photo09_Provisional.png",
+    "bytes": 7258770,
+    "sha256": "dc221cd47eb7903485cb2395f31b1287cda5a0175221bd855eae5f51bd1d04a5",
+    "git_blob_sha1": "19c11993d4f5dfdb5e6fec2da5c426a25cf273a5"
+  },
+  {
+    "path": "renders/Maybach14_Rear_REF03.png",
+    "bytes": 6515805,
+    "sha256": "686cc58165d6697316e871083b2777ab21623abcb07cf1c40fbcb3bb7eb95a15",
+    "git_blob_sha1": "47f7359179a970aed82a9ec28aabefd981c9006d"
+  },
+  {
+    "path": "renders/Maybach14_Side_Profile.png",
+    "bytes": 1613523,
+    "sha256": "3b73b1f9d81301eaf3e8238a078b68e55d98af2d1367da0ecb3705437ca8e974",
+    "git_blob_sha1": "063b0ec50e5e56d799ab7c1b82b906442e85e411"
+  }
+]
